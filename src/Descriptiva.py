@@ -5,7 +5,6 @@ Created on Thu Mar 31 21:34:40 2022
 
 @author: jorge
 """
-# esto es un comentario
 
 import pandas as pd
 import numpy as np
